@@ -1,2 +1,6 @@
-# iot_simplified
-IoT Simplified is giving back to the community by providing valuable content to help anyone interested in learning about Internet of Things. Visit our website for more information.
+# IoT Simplified
+Learn with us as we solve complex problems of Internet of Things!
+
+> To learn more about IoT Simplified. Please check our website out at www.iotsimplified.com
+
+Feel free to look around and contribute!
